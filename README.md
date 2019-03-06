@@ -17,6 +17,9 @@ This is how my pipeline looks like:
 
 ### Results
 
-<script src="https://gist.github.com/shivaverma/984e65b3239e54c8b9a2ac6d653ff431.js"></script>
+<img src=data/result.png width="600">
 
+### How to furthur improve
+
+We can generate a much more realistic script by doing a few things such as: using the large dataset since our dataset is a small subset of the original dataset, tuning the hyperparameters, experimenting with different network architectures like bidirectional and encoder-decoder, applying text augmentation etc.
 
