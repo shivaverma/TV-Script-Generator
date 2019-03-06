@@ -17,18 +17,6 @@ This is how my pipeline looks like:
 
 ### Results
 
-- moe_szyslak: (late) homer are carve at make your new yuh. it.
-- homer_simpson: you get something something to love your creepy man?
-- moe_szyslak: well to get from the man.
-- moe_szyslak: oh, who's the bar?
-- moe_szyslak: oh, no, who's this bar?
-- moe_szyslak: (cowboys) then all right, from who's moe.
-- moe_szyslak: oh, how get a man?
-- moe_szyslak: (to talkin '?
-- moe_szyslak: (counterfeit runt!
-- moe_szyslak: what am i? am?
-- moe_szyslak: oh, oh, i am a man.
-- moe_szyslak: (to talkin'then..
-- moe_szyslak: (to runt, hey, you'm gonna points with the new died.
+<script src="https://gist.github.com/shivaverma/984e65b3239e54c8b9a2ac6d653ff431.js"></script>
 
 
