@@ -17,7 +17,7 @@ This is how my pipeline looks like:
 
 ### Results
 
-<img src=data/result.png width="600">
+<img src=data/result.png width="550">
 
 ### How to furthur improve
 
